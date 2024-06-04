@@ -1,0 +1,8 @@
+C:\Users\Miel\source\repos\PracticeProject\PracticeProject\x64\Debug\PracticeProject.vcxproj.AssemblyReference.cache
+C:\Users\Miel\source\repos\PracticeProject\PracticeProject\x64\Debug\PracticeProject.getInfo.resources
+C:\Users\Miel\source\repos\PracticeProject\PracticeProject\x64\Debug\PracticeProject.vcxproj.GenerateResource.cache
+C:\Users\Miel\source\repos\PracticeProject\PracticeProject\x64\Debug\Practice.1534116D.Up2Date
+C:\Users\Miel\source\repos\PracticeProject\PracticeProject\x64\Debug\PracticeProject.viewProduct.resources
+C:\Users\Miel\source\repos\PracticeProject\PracticeProject\x64\Debug\PracticeProject.updateProducth.resources
+C:\Users\Miel\source\repos\PracticeProject\PracticeProject\x64\Debug\PracticeProject.searchProduct.resources
+C:\Users\Miel\source\repos\PracticeProject\PracticeProject\x64\Debug\PracticeProject.deleteProduct.resources

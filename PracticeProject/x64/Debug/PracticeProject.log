@@ -1,0 +1,4 @@
+﻿  getInfo.cpp
+C:\Users\Miel\source\repos\PracticeProject\PracticeProject\getInfo.h(394,52): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+  getInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  PracticeProject.vcxproj -> C:\Users\Miel\source\repos\PracticeProject\x64\Debug\PracticeProject.exe
